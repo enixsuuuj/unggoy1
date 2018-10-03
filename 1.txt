@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Personal Information</title>
+<link rel="stylesheet" href="style.css">
+<style>
+body {
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+}
+</style>
+</head>
+<body background="Z.jpg">
+
+	<header>
+		<nav>
+			<h1>Arsahidin Malang</h1>
+			<ul id="nav">
+				<li><a class="homered" href="#">HOME</a></li>
+				<li><a class="homeblack" href="MALANG.HTML">ABOUT ME</a></li>
+				<li><a class="homeblack" href="EXPERIENCES.html">PORTFOLIO</a></li>
+				<li><a class="homeblack" href="AMBITION.HTML">AMBITION</a></li>
+			</ul>
+		</nav>
+	</header>
+	<div class="divider"></div>
+		<h2 class="homesub">HI! I AM Arsahidin MaLang</h2>
+		<br>
+		<CENTER><img src="H.jpg"</CENTER>
+		<CENTER><img src="C.jpg"></CENTER>
+		
+		
+
+
+</body>
+</html>
